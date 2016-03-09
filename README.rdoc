@@ -1,0 +1,1 @@
+This is a repository for practicing collaboration with Git and Github, specifically understanding the function of "hooks" and resolving merge conflicts.
