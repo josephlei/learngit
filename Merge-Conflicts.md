@@ -1,6 +1,7 @@
 # MERGE CONFLICT
 
 This is a hook
+canhascheezburger?
 end
 
 This is another hook
@@ -9,4 +10,5 @@ This is another hook
 end
 
 This is our third hook
+jjlthirdhook, edits r awesum
 end
